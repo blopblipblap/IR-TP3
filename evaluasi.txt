@@ -1,0 +1,3 @@
+Dibandingkan dengan hasil metric pada TP2, RBP dan DCG lebih tinggi namun AP menjadi lebih rendah.
+Hal ini menunjukkan bahwa ranking lebih relevan dibanding hasil TP2 tetapi presisi dengan melihat
+qrels menjadi turun.
